@@ -1,4 +1,5 @@
 # Enumerating-Gene-Orders
+
 Point mutations can create changes in populations of organisms from the same species, but they lack the power to create and differentiate entire species. This more arduous work is left to larger mutations called genome rearrangements, which move around huge blocks of DNA. Rearrangements cause major genomic change, and most rearrangements are fatal or seriously damaging to the mutated cell and its descendants (many cancers derive from rearrangements). For this reason, rearrangements that come to influence the genome of an entire species are very rare.
 
 Because rearrangements that affect species evolution occur infrequently, two closely related species will have very similar genomes. Thus, to simplify comparison of two such genomes, researchers first identify similar intervals of DNA from the species, called synteny blocks; over time, rearrangements have created these synteny blocks and heaved them around across the two genomes (often separating blocks onto different chromosomes, see Figure 1.).
